@@ -27,11 +27,11 @@ Ahhh yes. i almost forgot to say this.  i'm currently learning ReactJS ( i'm jun
 And this is my knowledge table
 | Topic | I know |
 |--|--|
-| HTML | 50% |
-| CSS | 50% |
+| HTML | 80% |
+| CSS | 80% |
 | JS | 15% |
 | ReactJS | 15% |
-| English | 8% |
+| English | 10% |
 | TailwindCSS | 50% |
 <br>
 OMG. such a big knowledge table 😅
